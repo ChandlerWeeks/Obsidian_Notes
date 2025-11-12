@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Exceptions.md",
+                "file": "Appendix C - Pipelining - Basic and Intermediate Concepts/9. Exceptions.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 215.5
   },
   "right": {
     "id": "ee9de082816c0d94",
@@ -203,7 +203,7 @@
   "lastOpenFiles": [
     "assets/Pasted image 20251111205623.png",
     "Appendix C - Pipelining - Basic and Intermediate Concepts/8. Branch Prediction.md",
-    "9. Exceptions.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/9. Exceptions.md",
     "assets/Pasted image 20251111204954.png",
     "assets/Pasted image 20251111201347.png",
     "Appendix C - Pipelining - Basic and Intermediate Concepts/7. Control Hazards.md",
