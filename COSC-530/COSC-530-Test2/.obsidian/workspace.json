@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf665732ebb5961e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix C - Pipelining - Basic and Intermediate Concepts/6. Control Dependence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Control Dependence"
-            }
-          },
-          {
-            "id": "dbe652c9df6c3c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix C - Pipelining - Basic and Intermediate Concepts/8. Branch Prediction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Branch Prediction"
-            }
-          },
-          {
             "id": "c8eb7cf0ce7608df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendix C - Pipelining - Basic and Intermediate Concepts/9. Exceptions.md",
+                "file": "Appendix C - Pipelining - Basic and Intermediate Concepts/10. Precise Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Exceptions"
+              "title": "10. Precise Exceptions"
+            }
+          },
+          {
+            "id": "c45c5d854d264658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appendix C - Pipelining - Basic and Intermediate Concepts/11. Multicycle Operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Multicycle Operations"
+            }
+          },
+          {
+            "id": "cedcccd55fc2803a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appendix A - Instruction Set Principles/1. ISA Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. ISA Classification"
             }
           }
         ],
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 292.5
   },
   "right": {
     "id": "ee9de082816c0d94",
@@ -199,46 +199,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "af27d67c250f8532",
+  "active": "cedcccd55fc2803a",
   "lastOpenFiles": [
-    "assets/Pasted image 20251111205623.png",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/8. Branch Prediction.md",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/9. Exceptions.md",
-    "assets/Pasted image 20251111204954.png",
-    "assets/Pasted image 20251111201347.png",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/7. Control Hazards.md",
-    "assets/Pasted image 20251111195945.png",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/6. Control Dependence.md",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/4. Dependences.md",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/5.  Forwarding.md",
-    "assets/Pasted image 20251111192019.png",
-    "assets/Pasted image 20251111190955.png",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/3. Performance Limitations of Pipelines.md",
-    "assets/Pasted image 20251111181559.png",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/2. Pipeline Registers.md",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts/1. Instruction Pipelining - Introduction.md",
-    "assets/Pasted image 20251111173802.png",
-    "Appendix C - Pipelining - Basic and Intermediate Concepts",
-    "Appendix A - Instruction Set Principles/13. RISC-V.md",
-    "assets/Pasted image 20251111170545.png",
-    "Appendix A - Instruction Set Principles/12. ISA Properties & Compilers.md",
+    "Appendix A - Instruction Set Principles/2. Memory Addressing.md",
+    "Appendix A - Instruction Set Principles/3. Addressing Modes.md",
+    "Appendix A - Instruction Set Principles/4. Types And Sizes.md",
+    "Appendix A - Instruction Set Principles/5. Operations in the Instruction Set.md",
+    "Appendix A - Instruction Set Principles/6. Control Flow Mechanisms.md",
+    "Appendix A - Instruction Set Principles/7. Evaluating Branch Conditions.md",
+    "Appendix A - Instruction Set Principles/8. Calling Conventions.md",
+    "Appendix A - Instruction Set Principles/9. Instruction Set Encoding.md",
     "Appendix A - Instruction Set Principles/10. The Compiler & Optimizations.md",
     "Appendix A - Instruction Set Principles/11. Register assignment & allocation.md",
-    "Appendix A - Instruction Set Principles/9. Instruction Set Encoding.md",
-    "assets/Pasted image 20251111155715.png",
-    "assets",
-    "Appendix A - Instruction Set Principles/8. Calling Conventions.md",
-    "Appendix A - Instruction Set Principles/7. Evaluating Branch Conditions.md",
-    "Appendix A - Instruction Set Principles/6. Control Flow Mechanisms.md",
-    "Appendix A - Instruction Set Principles/5. Operations in the Instruction Set.md",
-    "Appendix A - Instruction Set Principles/4. Types And Sizes.md",
-    "Appendix A - Instruction Set Principles/3. Addressing Modes.md",
+    "Appendix A - Instruction Set Principles/12. ISA Properties & Compilers.md",
+    "Appendix A - Instruction Set Principles/13. RISC-V.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/1. Instruction Pipelining - Introduction.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/2. Pipeline Registers.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/3. Performance Limitations of Pipelines.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/4. Dependences.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/5.  Forwarding.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/6. Control Dependence.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/7. Control Hazards.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/8. Branch Prediction.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/9. Exceptions.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/10. Precise Exceptions.md",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts/11. Multicycle Operations.md",
+    "Chapter 3 - Instruction Level Parallelism/1. Instruction level Parallelism (ILP).md",
+    "Chapter 3 - Instruction Level Parallelism",
+    "img/Pasted image 20251112093703.png",
+    "img/Pasted image 20251112093633.png",
+    "img/Pasted image 20251111205623.png",
+    "img/Pasted image 20251111204954.png",
+    "img/Pasted image 20251111201347.png",
+    "img/Pasted image 20251111195945.png",
+    "img/Pasted image 20251111192019.png",
+    "img/Pasted image 20251111190955.png",
+    "img/Pasted image 20251111181559.png",
+    "img/Pasted image 20251111173802.png",
+    "Appendix C - Pipelining - Basic and Intermediate Concepts",
+    "img",
     "Appendix A - Instruction Set Principles/1. ISA Classification.md",
-    "Appendix A - Instruction Set Principles/2. Memory Addressing.md",
     "FRquently Used Addressing Modes.md",
-    "Welcome.md",
-    "Operands.md",
-    "imgs/Pasted image 20251108152250.png",
     "imgs",
     "ISA Types",
     "Appendix A - Instruction Set Principles"
