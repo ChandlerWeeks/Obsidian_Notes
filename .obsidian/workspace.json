@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "220d93939dcbd4d0",
+        "id": "3e198fca580277c3",
         "type": "tabs",
         "children": [
           {
-            "id": "84dc910b4cefe4a9",
+            "id": "1c0d2cead53cae37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Divide and Conquer - Solving recurrences.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Divide and Conquer - Solving recurrences"
+              "title": "README"
+            }
+          },
+          {
+            "id": "8c0448a8cb76702c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COSC-581/7. Let's try to finish our discussion of sorting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Let's try to finish our discussion of sorting"
+            }
+          },
+          {
+            "id": "ab8152f1d8aff565",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,8 +189,39 @@
               "icon": "lucide-list",
               "title": "Outline of 1. Introduction to Deep Learning"
             }
+          },
+          {
+            "id": "4ad1af05296c36be",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "96bb14879c755e20",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "6f239d154afb82f6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -183,16 +239,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "84dc910b4cefe4a9",
+  "active": "cad405273590db0f",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
+    "Daily Notes/2026-02-13.md",
+    "Daily Notes/2026-02-11.md",
+    "Daily Notes/2026-02-02.md",
+    "Daily Notes",
+    "DL - HW2.md",
+    "Convolutional Neural Networks.md",
+    "COSC-581/Proofs.md",
+    "COSC-581/HW2/Home.md",
+    "COSC-581/HW2",
+    "COSC-581/7. Let's try to finish our discussion of sorting.md",
+    "COSC-581/6.  Continuation of Sorting.md",
+    "COSC-581/5. Discussion on Sorting.md",
+    "COSC-525/Self Study - Uncertainty.md",
+    "COSC-525/5. Deep Learning.md",
+    "COSC-525/4. Back Propagation Neural Network.md",
+    "COSC-525/3. Machine Learning & NNs.md",
+    "5. CNN's and autoencoders.md",
     "3. Divide and Conquer - Solving recurrences.md",
-    "COSC-581/2. Asymptotic notation.md",
-    "3. Machine Learning & NNs.md",
     "Self Study - Uncertainty.md",
-    "COSC-525/2. Machine Learning - Crash Course.md",
-    "COSC-581/1. Introduction.md",
-    "COSC-525/1. Introduction to Deep Learning.md",
     "Proofs.md",
-    "COSC-581/introduction-to-algorithms-3rd-edition (1).pdf"
+    "3. Machine Learning & NNs.md",
+    "COSC-581/introduction-to-algorithms-3rd-edition (1).pdf",
+    "README.md",
+    "COSC-581/HW2/Untitled.md",
+    "COSC-530/COSC-530-Test2/Appendix A - Instruction Set Principles/3. Addressing Modes.md",
+    "Excalidraw/Drawing 2026-02-03 12.52.12.excalidraw.md",
+    "Excalidraw",
+    "COSC-581/2. Asymptotic notation.md"
   ]
 }
