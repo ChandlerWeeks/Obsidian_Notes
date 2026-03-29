@@ -8,7 +8,7 @@ Inductive Step: Where we show that the hypothesis holds
 
 Theorem -> Basis (true for any n=1) -> Hypothesis (true for any n>=1) -> Step show that f(n) = g(n). 
 
-# Proof by contradiction
+## Proof by contradiction
 
 Given a prediction, prove that the opposite isn't true, and therefore the basis holds. 
 # Chapter 3: Asymptotic and Growth Functions
@@ -100,7 +100,7 @@ Go through each item in the array and insert it into a new array.
 
 ## Counting Sort
 Count the number number of records whos keys are strictly smaller. 
-- **Best/Worst/Average Case**: Quadratic number of swaps, but nlog(n) comparisons for binary search insertion sort. (quadratic for linear). 
+- **Best/Worst/Average Case**: Quadratic number of comparisons, but linear number of swaps. 
 - **Stability**: Stable when only counting cases smaller
 ## Merge Sort
 Divide the problem into subproblems, then work back up merging the divided problems. Mergesort -> mergesort -> merge
@@ -125,6 +125,7 @@ Divides the list into sub-lists, and performs insertion sort on them. Takes a lo
 
 ## Radix Sort
 Radix means base. Group digits that have the share the same significant position. Sort by the digit one column at a time. Starts at the least significant digit (right to left). 
+O(dn)
 
 Radix sort does NO comparisons. Instead, you compare a digit, not a key. It cannot be compared to the other sorting algorithms in the same way. 
 ## Bucket Sort
@@ -154,3 +155,58 @@ Recurrence Relation for Median of Medians
 
 $T(\frac{n}{r}) + T(n * \frac{3r-1}{4r}) + cn$
 
+# Final Thoughts on Sorting
+
+Remember the sequence
+- partition
+- Quicksort 
+- Quicksort
+The key is the median of medians, or median given we can find it in linear time, which ensures a logarithmic number of iterations. 
+
+## Lower bound on comparison based sorting
+If there are n distinct elements, there are n! possible arrangements (permutations) of said list.
+This means the height of the decision tree is $log_2(n!)$, which is also the worst-case number of comparisons. 
+
+Using sterling's approximation, we can show that 
+$$
+log(n!) = nlogn-n+O(logn) = \Theta(nlogn)
+$$
+
+# Data Structures Review
+Stack (LIFO) -> like a stack of plates
+Queues (FIFO) -> Like a line at a grocery store
+
+Heaps: The parent is always smaller (min-heap) than its children. No left/right order.
+- o(n) search time
+- o(1) to find the min/max
+Binary search tree: Left child < parent < right child
+- O(logn) search time
+- O(logn) find min/max
+
+Hash tables
+- Hash tables aim to hash a key to insert/find the value in O(1) time, however, when two keys map to the same value a collision occurs. Linear probing just goes to the next available hash slot. this degrades performance to O(n) in theory. 
+
+# Dynamic Programming
+A multi-stage decision process takes n stages, and d decision choices per stage, resulting in 
+$O(d^n)$ complexity. 
+
+The knapsack problem where:
+- given a list of items and a knapsack capacity
+- each item has a value and size
+- pack to maximize value while respecting capacity
+- just use a greedy 
+
+But, for the 0/1 version of the problem. 
+- Fractions of items are not permitted. 
+- Which goes first
+	- O(n!)
+- item 1 yes/no, item 2 yes/no, etc
+	- O$(2^n)$
+
+But we can setup a DP table for each stage, to keep track of partial solutions. This avoids considering sub-optimal solutions, and trades space for time. 
+
+$s_i$ is the state variable
+$d_i$ is the decision process
+$r_i$ is the optimal result for the state
+
+Richard Bellman and the principle of optimality: an optimum decision sequence must have the property that for stage i, no matter how we've chose s_i and d_i, the subsequence decisions will be the optimal decision. **To find the best possible result, the results that informed this decision must also be the best possible result**
