@@ -6,3 +6,8 @@ General framework for LP
 - Objective function: Maximize or minimize some combination of variables
 - Constraints: Restrictions on variables
 - All relationships linear (no products of powers)
+
+## Connections
+
+- [[Dynamic Programming]]
+- [[Basics of Complexity Theory]]

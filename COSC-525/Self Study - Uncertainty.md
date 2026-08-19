@@ -45,3 +45,8 @@ P(Diesase | +) = \frac{P(+ | Disease) * P(Disease)}{P(+)} = \frac{0.99 * 0.01}{0
 $$
 
 Therefore, there is only a ~16.7\% chance of having the disease. 
+
+## Connections
+
+- [[Project 3 - Modeling time series]]
+- [[2. Machine Learning - Crash Course]]

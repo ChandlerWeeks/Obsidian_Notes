@@ -6,3 +6,9 @@ National Data Science Fabric (NSDF)
 - Enable a federated AI architecture
 
 This framework addresses specific scientific problems, like dark mattter research, real-time light balminess, etc.
+
+## Connections
+
+- [[Ty's Defense 1]]
+- [[Seminar on cloud providers]]
+- [[Data Level Parallelism]]

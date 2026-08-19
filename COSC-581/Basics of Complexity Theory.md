@@ -23,3 +23,9 @@ Examples:
 LP is probably show your work.
 
 Proofs, fermats theorem
+
+## Connections
+
+- [[Linear Programming]]
+- [[CS581 - Lecture 5-17]]
+- [[Proofs]]

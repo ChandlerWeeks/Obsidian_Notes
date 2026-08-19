@@ -7,3 +7,9 @@ Attention
 - invented to solve problems in recurrent neural networks, particularly the long range tendencies. 
 
 Check her slides on recurrent nerual networks
+
+## Connections
+
+- [[Lecture 3-17]]
+- [[Project 3 - Modeling time series]]
+- [[Natural Language Processing - Aug 18]]

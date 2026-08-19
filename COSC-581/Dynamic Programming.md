@@ -56,3 +56,9 @@ What is the principle of Optimality
 Richard Bellman and the principle of optimality: An optimum decision sequence must have the property that, for stage i, no matter how we've chose s_i and d_i, the subsequence decisions d_i+1, d_i+2, ... d_n will be best possible s_i and d_i. 
 
 IF YOU MAKE THE RIGHT DECISION OVERALL, YOU WILL MAKE THE RIGHT DECISION IN THE PREVIOUS STAGE. 
+
+## Connections
+
+- [[Network Flow]]
+- [[Linear Programming]]
+- [[Algorithms - Study Guide]]

@@ -29,3 +29,8 @@ Low quality image on "tested-scenario"
 Using an IMG format reduced .img size by about 60%. 
 
 Motivation, Background & Related Work, Research Questions & hypothesis / Methodology / Results / Conclusion
+
+## Connections
+
+- [[The Importance of your mindset in your career development]]
+- [[Ty's Defense 1]]

@@ -31,3 +31,9 @@ $$
 $$
 -w_0^{k+1} = -w_0^k + \sum_{ms}(T-Z)
 $$
+
+## Connections
+
+- [[4. Back Propagation Neural Network]]
+- [[5. Deep Learning]]
+- [[2026-02-11]]

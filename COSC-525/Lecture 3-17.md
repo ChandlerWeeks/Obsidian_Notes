@@ -6,3 +6,8 @@
 
 Because  MDC are bayesian, we make the assumption the PDF is gaussian, and the decision boundary is linear. 
 Assumption that similar instances are close in proximity in the feature space, and the same for the class label. 
+
+## Connections
+
+- [[5. CNN's and autoencoders]]
+- [[Lecture 5-19]]

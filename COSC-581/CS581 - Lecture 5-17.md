@@ -51,3 +51,9 @@ Sieve method: O(sqrt(n)), too slow
 Fermots little theorem: if n is prime, then for all b not divisible by n, we have b^n-1 === 1. What?
 
 Group Axons: Inverse, closure, associative, identity
+
+## Connections
+
+- [[Basics of Complexity Theory]]
+- [[CPU Scheduling Algorithms]]
+- [[Proofs]]

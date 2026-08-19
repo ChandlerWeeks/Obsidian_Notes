@@ -210,3 +210,16 @@ $d_i$ is the decision process
 $r_i$ is the optimal result for the state
 
 Richard Bellman and the principle of optimality: an optimum decision sequence must have the property that for stage i, no matter how we've chose s_i and d_i, the subsequence decisions will be the optimal decision. **To find the best possible result, the results that informed this decision must also be the best possible result**
+
+## Connections
+
+- [[7. Let's try to finish our discussion of sorting]]
+- [[Study Guide for Algorithms]]
+- [[Proofs]]
+- [[2. Asymptotic notation]]
+- [[3. Divide and Conquer - Solving recurrences]]
+- [[5. Discussion on Sorting]]
+- [[Greedy Algorithms]]
+- [[Dynamic Programming]]
+- [[Home]]
+- [[2026-02-13]]

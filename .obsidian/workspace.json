@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3e198fca580277c3",
+        "id": "2c7ccbcf0e662428",
         "type": "tabs",
         "children": [
           {
-            "id": "b087f66c016868b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COSC-581/introduction-to-algorithms-3rd-edition (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "introduction-to-algorithms-3rd-edition (1)"
-            }
-          },
-          {
-            "id": "c9e6bbd93645e5fc",
+            "id": "0e7ae2d16068e4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Codex/Operating the CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6b3810aaf6104728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Guide for Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Guide for Algorithms"
-            }
-          },
-          {
-            "id": "f3b4634e0496f239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics of Complexity Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics of Complexity Theory"
+              "title": "Operating the CLI"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fe0fe1467af731bf",
@@ -255,11 +214,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3b4634e0496f239",
+  "active": "0e7ae2d16068e4f1",
   "lastOpenFiles": [
-    "Study Guide for Algorithms.md",
-    "Basics of Complexity Theory.md",
     "README.md",
+    "COSC-581/Basics of Complexity Theory.md",
+    "Computer Science/Codex/Operating the CLI.md",
+    "Computer Science/Codex/Codex CLI Handbook.md",
+    "Computer Science/Codex/Codex Basics.md",
+    "Computer Science/Codex",
+    "Computer Science",
+    "Untitled.base",
+    "COSC-524/Natural Language Processing - Aug 18.md",
+    "img/Pasted image 20260227094447.png",
+    "COSC-581/Study Guide for Algorithms.md",
+    "COSC-530/COSC-530-Test2/Chapter 3 - Instruction Level Parallelism/4. Scheduling and Dependences.md",
+    "COSC-530/COSC-530-Test2/Chapter 3 - Instruction Level Parallelism/1. Instruction level Parallelism (ILP).md",
+    "COSC-530/COSC-530-Test2/Data Level Parallelism.md",
+    "COSC-530/COSC-530-Test2/Appendix A - Instruction Set Principles/1. ISA Classification.md",
+    "COSC-562",
+    "COSC-524",
+    "Email Draft.md",
+    "Dr. Rao Declination.md",
+    "Faculty Events & Thesis/The Importance of your mindset in your career development.md",
+    "Faculty Events & Thesis/Seminar on cloud providers.md",
+    "Solving the Enclosed Horse puzzle using Integer Linear Programming.md",
+    "COSC-525/Project 3 - Modeling time series.md",
+    "COSC-581/CPU Scheduling Algorithms.md",
+    "COSC-581/introduction-to-algorithms-3rd-edition (1).pdf",
+    "Faculty Events & Thesis/Ty's Defense 1.md",
     "COSC-525/Lecture 5-19.md",
     "COSC-525/Lecture 3-17.md",
     "COSC-581/Algorithms - Study Guide.md",
@@ -268,27 +250,8 @@
     "COSC-581/3. Divide and Conquer - Solving recurrences.md",
     "Daily Notes/2026-03-02.md",
     "Faculty Events & Thesis/Ty's Defense.md",
-    "COSC-581/introduction-to-algorithms-3rd-edition (1).pdf",
-    "COSC-581/Proofs.md",
-    "COSC-581/7. Let's try to finish our discussion of sorting.md",
-    "Faculty Events & Thesis/Dr. Vascucci.md",
-    "Untitled 1.md",
-    "COSC-581/CS581 - Lecture 5-17.md",
-    "img/Pasted image 20260227094447.png",
-    "COSC-581/Linear Programming.md",
-    "Daily Notes/2026-02-11.md",
-    "Daily Notes/2026-02-02.md",
-    "Faculty Events & Thesis/Seminar on cloud providers.md",
-    "COSC-525/Perceptrons.md",
     "img",
-    "COSC-581/Network Flow.md",
-    "COSC-581/Greedy Algorithms.md",
-    "COSC-581/1. Introduction.md",
-    "COSC-581/2. Asymptotic notation.md",
-    "COSC-581/6.  Continuation of Sorting.md",
-    "COSC-581/Asymptotic Cheat Sheet.md",
     "Daily Notes",
-    "COSC-581/HW2",
-    "Excalidraw"
+    "COSC-581/HW2"
   ]
 }

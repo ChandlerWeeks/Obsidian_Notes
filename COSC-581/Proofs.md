@@ -20,3 +20,11 @@ If a is rational and ab is irrational, then b is irrational.
 a = m/n
 
 # Proof by Mathematical Induction
+
+## Connections
+
+- [[1. Introduction]]
+- [[2. Asymptotic notation]]
+- [[Algorithms - Study Guide]]
+- [[Basics of Complexity Theory]]
+- [[CS581 - Lecture 5-17]]

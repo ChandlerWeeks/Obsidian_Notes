@@ -7,3 +7,9 @@ Key Properties
 - Typically the simplest algorithms
 
 # Graph Algorithms
+
+## Connections
+
+- [[Algorithms - Study Guide]]
+- [[Greedy Algorithms]]
+- [[Network Flow]]

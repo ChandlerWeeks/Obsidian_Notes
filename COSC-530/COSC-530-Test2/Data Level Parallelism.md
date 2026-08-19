@@ -24,3 +24,14 @@ Modern vector architectures support caching, but tradionally they did not.
 # Forwarding
 *Chaining* allows the results of one vector operation to be userd as input to another vector operation. 
 A *convoy* is a set of vector instructions that can potentially execute together. Only structural hazards cause separate convoys as true dependences are okay
+
+## Connections
+
+- [[README]]
+- [[1. Instruction level Parallelism (ILP)]]
+- [[13. Issuing multiple Instructions in Parallel]]
+- [[14. Challenges of parallel programming]]
+- [[16. Multithreading]]
+- [[Convolutional Neural Networks]]
+- [[Dr. Vascucci]]
+- [[Seminar on cloud providers]]
